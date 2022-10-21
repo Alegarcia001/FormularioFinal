@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: lightgreen;
+}
+section{
+    width: 70%;
+    padding: 20px;
+    float: left;
+}
+article{
+    padding: 20px;
+}
+button{
+    margin-left: 20%;
+}
+div{
+    padding: 20px;
+    float: left;
+    width: 29%;
+    height: 100%;
+}
